@@ -1,6 +1,6 @@
 <div align="center">
   
-### *A simple LinkedList implementation in C.*
+### *A simple linked list implementation in C.*
 
 </div>
 
